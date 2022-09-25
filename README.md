@@ -1,6 +1,5 @@
 # Side scroller Runner/Jumper
 A test game made with phaser HTML5 engine: https://phaser.io/
-Assets, animations and code by: Juan Pablo Pinedo D.
 
 ## Phaser ES6 Boilerplate
 
