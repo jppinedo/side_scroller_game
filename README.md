@@ -1,3 +1,5 @@
+![side_scroller](https://user-images.githubusercontent.com/15115125/192167594-87bcd0b8-64fb-4045-9342-62473e3a7337.JPG)
+
 # Side scroller Runner/Jumper
 A test game made with phaser HTML5 engine: https://phaser.io/
 
@@ -46,4 +48,4 @@ If you modify the contents of other files, please manually restart the server.
 
 ### Modifying `gulpfile.js`
 
-See [gulpfile.md](https://github.com/belohlavek/phaser-es6-boilerplate/blob/master/gulpfile.md)
+See [gulpfile.md](https://github.com/jppinedo/side_scroller_game/blob/master/gulpfile.md)
