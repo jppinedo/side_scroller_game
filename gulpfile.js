@@ -133,12 +133,13 @@ function build() {
  * Watches for file changes in the 'src' folder.
  */
 function serve() {
-    
+
     var options = {
         server: {
             baseDir: BUILD_PATH
+
         },
-        open: false // Change it to true if you wish to allow Browsersync to open a browser window.
+        open: false, // Change it to true if you wish to allow Browsersync to open a browser window.
     };
     
     browserSync(options);
