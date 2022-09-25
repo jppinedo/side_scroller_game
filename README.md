@@ -1,11 +1,6 @@
 # Side scroller Runner/Jumper
 A test game made with phaser HTML5 engine: https://phaser.io/
 
-## Phaser ES6 Boilerplate
-
-This is a non-professional Phaser template for building standard games using the 
-Phaser framework and ES6/2015.
-
 ## Features
 
 ✔ Heavily commented, flexible Gulpfile (that means it uses [Gulp](http://gulpjs.com/)).
